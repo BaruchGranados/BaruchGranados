@@ -14,6 +14,6 @@ for learn more about of all, I would appreciate if you give me the opportunity t
 -
 
 <!---
-BaruchGranados/BaruchGranados is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BaruchGranados/BaruchGranados is a ✨ special ✨ repository because its `PRESENTATION.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
